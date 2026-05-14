@@ -1,4 +1,4 @@
-# 
+# vip trader joe trading bot Plugin | price-impact-analysis + auto-compounding offers the most advanced trader joe trading bot, with price-impact-analysis and auto-compounding.
 
 
 
